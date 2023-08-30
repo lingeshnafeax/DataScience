@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Black">
+    <option name="enabledOnSave" value="true" />
     <option name="sdkUUID" value="b43f3956-f21c-40d8-85ad-8ddacda6e10e" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="C:\Users\Magesh\anaconda3" project-jdk-type="Python SDK" />
