@@ -10,6 +10,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\Machine Learning\Classification\Data\Social_Network_Ads.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Machine Learning\Regression\Data\Position_Salaries_3.csv">
           <value>
             <Attribute>
