@@ -3,322 +3,35 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
-        <entry key="\EDA\Covid 19\Data\country_daywise.csv">
+        <entry key="\Learning\sklearn\K Means Clustering\Country Clustering\Exercise\29588950-Countries-exercise.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\EDA\Covid 19\Data\countrywise.csv">
+        <entry key="\Learning\sklearn\K Means Clustering\Country Clustering\Practice\29588934-3.01.Country-clusters.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\EDA\Covid 19\Data\covid_19_data_cleaned.csv">
+        <entry key="\Learning\sklearn\K Means Clustering\Customer Segmentation\Mall_Customers.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\EDA\Covid 19\Data\daywise.csv">
+        <entry key="\Learning\sklearn\K Means Clustering\Heatmap and Dendrograms\29589074-Country-clusters-standardized.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="\EDA\Cuisine Dataset\Cuisine_rating.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\EDA\DC Movies\dceu_box_office_and_rating.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\EDA\FIFA Dataset\WorldCupMatches.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\EDA\FIFA Dataset\WorldCupPlayers.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\EDA\FIFA Dataset\WorldCups.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\EDA\Medical Dataset\insurance.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\EDA\Titanic Dataset\titanic_train.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\Machine Learning\Classification\Data\Social_Network_Ads.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\Machine Learning\Regression\Data\50_Startups.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\Machine Learning\Regression\Data\Position_Salaries.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\Machine Learning\Regression\Data\Position_Salaries_1.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\Machine Learning\Regression\Data\Position_Salaries_3.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\Machine Learning\Regression\Data\Salary_Data.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\StatsModel\Linear Regression\Car Price Prediction\scrap price.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\StatsModel\Linear Regression\GPA Prediction\Dummy Variable\29588090-1.03.Dummies.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\StatsModel\Linear Regression\GPA Prediction\Multiple LR\29588058-1.02.Multiple-linear-regression.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\StatsModel\Linear Regression\GPA Prediction\Simple LR\29587970-1.01.Simple-linear-regression.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\StatsModel\Linear Regression\Salary Prediction\Salary_dataset.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\StatsModel\Linear Regression\StockMarket Prediction\Multiple LR\29588076-real-estate-price-size-year.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\StatsModel\Linear Regression\StockMarket Prediction\Simple LR\29588022-real-estate-price-size.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\StatsModel\Logistic Regression\Admittance Prediction using SAT\29588638-2.01.Admittance.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\StatsModel\Logistic Regression\Bank Dataset\15451783-Example-bank-data.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\StatsModel\Logistic Regression\Bank Dataset\15451939-Bank-data.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\StatsModel\Logistic Regression\Bank Dataset\15452035-Bank-data-testing.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\StatsModel\Logistic Regression\Binary Predictors\29588712-2.02.Binary-predictors.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\StatsModel\Logistic Regression\Binary Predictors\29588872-2.03.Test-dataset.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\sklearn\K Means Clustering\Country Clustering\Exercise\29588950-Countries-exercise.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\sklearn\K Means Clustering\Country Clustering\Practice\29588934-3.01.Country-clusters.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\sklearn\K Means Clustering\Customer Segmentation\Mall_Customers.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\sklearn\K Means Clustering\Heatmap and Dendrograms\29589074-Country-clusters-standardized.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\sklearn\K Means Clustering\Market Segmentation\29589028-3.12.Example.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\sklearn\Linear Regression\Multiple LR\Car Dataset\29588446-1.04.Real-life-example.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\sklearn\Linear Regression\Multiple LR\Exercise\29588378-real-estate-price-size-year.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\sklearn\Linear Regression\Multiple LR\Fish Dataset\Fish.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\sklearn\Linear Regression\Multiple LR\Practice\29588240-1.02.Multiple-linear-regression.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\sklearn\Linear Regression\Multiple LR\RealEstate Dataset\Real estate.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\sklearn\Linear Regression\Multiple LR\Standardization\GPA Prediction\29588388-1.02.Multiple-linear-regression.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\sklearn\Linear Regression\Multiple LR\Standardization\Real Estate\29588430-real-estate-price-size-year.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\sklearn\Linear Regression\Simple LR\29588160-1.01.Simple-linear-regression.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\sklearn\Logistic Regression\Bank Dataset\15451939-Bank-data.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\sklearn\Logistic Regression\Heart Disease\heartdisease.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
-        <entry key="\sklearn\Logistic Regression\SocialAd Dataset\Social_Network_Ads.csv">
+        <entry key="\Learning\sklearn\K Means Clustering\Market Segmentation\29589028-3.12.Example.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
