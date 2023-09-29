@@ -17,13 +17,6 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\Learning\sklearn\K Means Clustering\Customer Segmentation\Mall_Customers.csv">
-          <value>
-            <Attribute>
-              <option name="separator" value="," />
-            </Attribute>
-          </value>
-        </entry>
         <entry key="\Learning\sklearn\K Means Clustering\Heatmap and Dendrograms\29589074-Country-clusters-standardized.csv">
           <value>
             <Attribute>
