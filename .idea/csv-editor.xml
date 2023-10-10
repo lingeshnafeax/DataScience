@@ -3,6 +3,13 @@
   <component name="CsvFileAttributes">
     <option name="attributeMap">
       <map>
+        <entry key="\Diabetes Prediction\diabetes_prediction_dataset.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\Learning\sklearn\K Means Clustering\Country Clustering\Exercise\29588950-Countries-exercise.csv">
           <value>
             <Attribute>
