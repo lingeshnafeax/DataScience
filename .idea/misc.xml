@@ -3,6 +3,7 @@
   <component name="Black">
     <option name="enabledOnReformat" value="true" />
     <option name="enabledOnSave" value="true" />
+    <option name="pathToExecutable" value="C:\Users\Magesh\anaconda3\pkgs\nb_black-1.0.7-py_0\site-packages\nb_black.py" />
     <option name="sdkName" value="C:\Users\Magesh\anaconda3" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="C:\Users\Magesh\anaconda3" project-jdk-type="Python SDK" />
